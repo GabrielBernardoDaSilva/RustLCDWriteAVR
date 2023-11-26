@@ -1,4 +1,4 @@
-rust-blink-arduino-uno
+RustLCDWriteAVR 
 ======================
 
 Rust project for the _Arduino Uno_.
